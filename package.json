@@ -1,5 +1,29 @@
 {
   "devDependencies": {
     "jest": "^29.4.3"
-  }
+  },
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  },
+  "name": "challenge",
+  "description": "## Your Task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WendyVsQz/Team-profile-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WendyVsQz/Team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/WendyVsQz/Team-profile-generator#readme"
 }
