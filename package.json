@@ -3,6 +3,7 @@
     "jest": "^29.4.3"
   },
   "dependencies": {
+    "enquirer": "^2.3.6",
     "inquirer": "^9.1.4"
   },
   "name": "challenge",
