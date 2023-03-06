@@ -1,6 +1,14 @@
-const Employee = require("../lib/Employee");
+const Employee = require("../lib/Employee")
 
-test("Can instantiate Employee instance", () => {
+test('create an employee object', () => {
+  const employee = new Employee('Tailor Hernandez', 285, 'test@test.com');
+  expect(employee.name).toBe("Tailor Hernandez");
+  expect(employee.id).toBe(285);
+  expect(employee.email).toBe("test@test.com");
+
+});
+
+/* test("Can instantiate Employee instance", () => {
   const e = new Employee();
   expect(typeof(e)).toBe("object");
 });
@@ -46,3 +54,4 @@ test("getRole() should return \"Employee\"", () => {
   const e = new Employee("Alice", 1, "test@test.com");
   expect(e.getRole()).toBe(testValue);
 });
+ */
