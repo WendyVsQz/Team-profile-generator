@@ -42,17 +42,21 @@ running an html webpage according to the information provided from the user.
 IMG
 ![Screenshot 2023-03-07 204754](https://user-images.githubusercontent.com/118736912/223549698-a2594f53-ee05-458d-b0ca-11e42234b437.png)
 
-VIDEO
+![Screenshot 2023-03-07 212919](https://user-images.githubusercontent.com/118736912/223557373-b69b2205-03c9-4884-b3a2-1a5612c66539.png)
 
+
+VIDEO
+* https://drive.google.com/file/d/1zYn86Gg4B4D4AIEIwNipAeyKDQ8kV59i/view?usp=sharing
 
 ## Badges
 
+ * [![General badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://shields.io/)
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+ * ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+ * ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ *  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 
 ## Resources
